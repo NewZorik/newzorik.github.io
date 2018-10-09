@@ -629,9 +629,6 @@ input[type="radio"].visually-hidden {
 }
 
 @media screen and (max-width: 1081px) {
-  body {
-  width: 100%;
-  }
   .site-navigation {
     display: flex;
     flex-direction: column; 
