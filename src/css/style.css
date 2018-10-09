@@ -628,9 +628,9 @@ input[type="radio"].visually-hidden {
   background-color: #ffffff;
 }
 
-@media screen and (max-width: 759px) {
+@media screen and (max-width: 760px) {
   body {
-  width: 100%;
+  width: 760px;
   }
   .site-navigation {
     display: flex;
